@@ -1,0 +1,599 @@
+Location,Negative Tweets,Neutral Tweets,Positive Tweets
+"b'""the blue lag of Chicago""'",0,1,0
+b'#HumanZoo',0,1,0
+b'#RIDEMCOWBOYS??',1,0,0
+b'#Resist',0,1,0
+b'#ThorntonHeath',1,0,0
+b'07036',0,1,0
+"b'1 Civic Center Circle, Brea CA'",0,0,1
+b'18073',1,0,0
+b'1k+ anime accounts blocked',0,1,0
+"b'2 Cover Up Road, Strangetown'",1,0,0
+"b'207 Fletcher St, Ann Arbor, MI'",0,0,1
+"b'213 SW Broadway, Portland, OR'",0,0,1
+b'2207 S. St. Francis',1,0,0
+b'2nd Generation Immigrant',1,0,0
+b'310 // 408',0,0,1
+b'336 NC',0,0,1
+"b'36-10 Broadway, Fair Lawn NJ'",0,0,1
+"b""38 37' 38 N / 90 11' 52 W""",1,0,0
+b'518',0,0,1
+b'664 King St Midland Ontario',0,0,1
+b'757',0,0,1
+b'937',1,0,0
+b'? + ? ?',0,0,1
+b'? Northern VA ?',1,0,0
+b'? | ? ? ? ? ? ? ? ? ?',0,0,1
+b'??',0,1,1
+b'?? S U B S C R I B E ??',0,0,1
+b'???',1,0,0
+b'??? ???^5?',1,0,0
+b'??Catfish ??',0,1,0
+b'?Black Excellence?',0,0,2
+"b""@ndawg_4's computer""",0,1,0
+b'A very large bath tub.',0,1,0
+b'ATL',0,1,0
+"b'ATL, HOE'",0,1,0
+b'Alabama (Originally NJ)',0,0,1
+"b'Alabama, USA'",0,0,1
+"b'Albertville, MN'",0,0,1
+"b'Alpena/Marquette, MI'",0,0,1
+"b'Anchorage, Alaska'",0,1,0
+"b'Ann Arbor, Michigan'",0,0,1
+"b'Antelope, Ca.'",0,1,0
+"b'Apollo Beach, FL'",1,0,0
+"b'Apollo, PA'",0,0,1
+"b'Appleby-in-Westmorland, England'",0,0,1
+b'Arkansas',0,0,1
+"b'Arlen, Texas'",0,0,1
+"b'Arlington, TX'",0,1,0
+"b'Asheville, NC'",1,0,0
+"b'Aspen, CO'",0,0,1
+b'At the 100th Meridian',0,0,1
+"b'Atlanta, GA'",0,0,1
+b'Auburn NY',0,0,1
+"b'Auckland, NZ'",0,0,1
+"b'Austin & San Antonio, TX'",0,0,1
+b'Austin TX',0,0,1
+"b'Austin, TX'",0,1,0
+"b'Austin,Texas'",0,0,1
+b'Australia',1,1,1
+"b'Ayr, Scotland'",0,0,1
+b'Backwards Down The Faulty Plan',0,0,1
+b'Baile Atha Cliath',0,1,0
+"b'Baltimore, MD'",0,1,0
+"b'Baltimore, Maryland'",1,0,0
+"b'Baltimore, Maryland USA'",0,1,0
+"b'Bartlett, Tennessee'",0,0,1
+b'Baton Rouge',1,0,1
+"b'Bayside, TX'",0,1,0
+"b'Beckenham,Kent'",0,0,1
+b'Before the Common Era',0,0,1
+"b'Berkeley, CA'",0,1,0
+"b'Berlin, Germany'",0,1,0
+"b'Bethlehem, PA'",0,1,0
+b'Beverly Hills/Washington DC',0,1,0
+b'Beyond Space and Time',0,1,0
+b'Big Room Fulla Bad Bitches ??',0,1,0
+b'Binghamton NY',1,0,0
+b'Birmingham',1,0,0
+"b'Black Forest, CO'",0,0,1
+"b'Bletchingley, South East'",0,0,1
+b'Blipz N Chitz',0,0,1
+"b'Bloomington, IL'",0,1,0
+"b'Boerne, TX'",0,0,1
+b'Bognor Regis South Coast',0,1,0
+b'Bombay',1,0,0
+b'Bostic NC',1,0,0
+b'Boston',0,0,1
+b'Boston area',0,0,1
+"b'Boston, MA'",0,1,0
+"b'Boston, MA / San Francisco, CA'",0,0,1
+"b'Boulder, CO'",0,1,0
+"b'Boulder, CO or New Zealand'",0,0,1
+"b'Bourbonnais, IL'",0,0,1
+"b'Bozeman, MT'",0,0,1
+b'Bradford',0,0,2
+"b'Brantford, Ontario'",1,0,0
+"b'Bristol, RI'",1,0,0
+b'British Columbia',0,0,3
+"b'British Columbia, Canada'",1,0,0
+"b'Bronx, NY'",0,1,1
+"b'Bronxville, NY'",0,0,1
+"b'Brookhaven, NY'",1,0,0
+"b'Brooklyn, NY'",0,0,1
+"b'Bryan, Ohio'",0,1,0
+"b'Burlington, VT'",2,10,0
+b'Buxton',0,1,0
+"b'By the Sea, NY'",0,1,0
+b'C:\\',0,1,0
+"b'CANADA, Montreal'",0,0,1
+b'CHI || RVA || ATL',0,1,0
+b'California',0,2,1
+"b'California, USA'",3,1,2
+"b'Cambridge, England'",0,0,1
+b'Camelot',0,0,1
+b'Canada',3,1,0
+b'Canton ma',0,1,0
+"b'Carbondale, Illinois'",0,0,1
+"b'Cardiff, Wales'",0,1,0
+"b'Cary, NC'",0,0,1
+b'Center of the Free World',0,0,1
+"b'Champaign, IL'",0,1,0
+"b'Charlotte, NC'",0,1,0
+"b'Charlton, MA'",0,1,0
+b'Chi-town',0,0,1
+b'Chicago',1,4,1
+"b'Chicago Lawn, IL'",0,0,1
+"b'Chicago, IL'",4,0,0
+"b'Chicago, Il'",0,0,2
+b'Chicagoland',0,0,1
+"b'Chico, CA'",0,0,1
+"b'Chilliwack, British Columbia'",0,1,0
+"b'Cincinnati, OH'",0,1,0
+"b'Cleveland, Ohio'",0,1,0
+"b'Cleveland, TN'",0,0,1
+"b'Colonial Beach, VA'",0,1,0
+"b'Colorado, USA'",1,0,2
+"b'Columbia/Kansas City, Missouri'",0,0,1
+b'Columbus OH',0,1,0
+"b'Columbus, OH'",0,0,1
+"b'Concord, CA'",0,1,0
+b'Connecticut',0,1,0
+"b'Connecticut, USA'",0,0,1
+b'Constant State of Misery',0,1,0
+"b'Corpus Christi, TX'",0,1,0
+"b'County Ocean, NJ'",0,1,0
+b'Cream City',0,0,1
+"b'Crown Point, IN'",0,1,0
+"b'Cumberland, RI'",0,1,0
+b'DFW',1,0,0
+"b'Dallas, TX'",0,1,0
+"b'Dallas, Texas'",0,1,1
+"b'Davenport, Iowa'",0,0,2
+"b'Dayton, Ohio'",1,0,0
+"b'Decatur, GA'",1,0,0
+"b'Decatur, IL'",0,0,1
+b'Delta Quadrant',0,0,1
+"b'Denver, CO'",0,0,1
+"b'Denver, CO (KUSA-TV)'",0,1,0
+"b'Depression, FL'",1,0,0
+"b'Des Moines, Iowa'",0,1,0
+b'Desolation Row',1,0,0
+"b'Detroit, MI'",0,0,1
+b'Doncaster',0,0,1
+"b'Dos Palos, CA'",0,1,0
+b'Dulwich',0,0,1
+"b'Durham, NC'",0,0,1
+b'EARTH',0,0,1
+b'ECU Alum ? 910',0,1,0
+b'Earth',1,2,1
+b'East of Eden',1,0,0
+"b'Eaton Rapids, MI'",0,1,0
+"b'Edmonton, Alberta, Canada'",0,0,2
+"b'El Paso, Tx'",0,0,1
+b'Encouraging Wildlife',0,1,0
+"b'Enfield, CT'",0,0,1
+"b'Eugene, OR'",0,1,0
+"b'Fishers, IN'",0,0,1
+"b'Fleet Street, of course'",0,0,1
+b'Florida',1,4,0
+"b'Florida, USA'",2,2,4
+"b'Fort Collins, CO'",0,1,0
+"b'Franklin, TN'",0,0,2
+"b'Fredericksburg, VA'",0,0,3
+"b'Fredonia, NY'",0,0,1
+"b'Ft. Lauderdale, FL'",0,0,1
+b'GODS BASEMENT',0,1,0
+b'GT: Brent12346',0,0,1
+"b'Georgetown, Washington, DC'",0,0,1
+b'Georgia',0,0,1
+"b'Georgia, USA'",2,1,0
+b'Georgia?',0,0,1
+"b'Georgina, Ontario'",0,0,1
+b'Glasgow',1,0,0
+b'Glorious Canada!',1,0,0
+"b""God's Country, TX""",0,0,1
+"b'Granby, Co'",0,0,1
+"b'Grand Falls-Windsor, NL'",0,1,0
+"b'Grand Forks, ND'",0,0,1
+"b'Grand Island, NE'",1,0,0
+"b'Grand Rapids, Michigan'",1,0,0
+b'Greater Manchester',0,1,0
+"b'Greater Vancouver, British Columbia'",1,0,0
+b'Green Dolphin Street Prison',1,0,0
+"b'Greeneville, TN'",0,1,0
+"b'Greenville, SC'",0,1,0
+"b'Greenville,North Carolina'",0,0,1
+"b'Greenwood Lake, NY'",0,1,0
+"b'Guelph, Ontario'",0,0,1
+b'Guntherville',1,0,0
+b'Halifax',0,1,0
+"b'Halifax, Nova Scotia'",0,0,1
+"b'Haubstadt, IN'",0,0,1
+"b'Haworth, England'",0,1,0
+"b'Heart in Cork, body in Dublin'",0,1,0
+b'Heaven',1,0,0
+"b'Hebron, TX'",0,2,0
+"b'Helena, AL'",0,0,1
+b'Hellabama',1,0,0
+"b'Hemlock Grove, Pennsylvania'",1,0,1
+"b'High Rockies, Colorado, USA'",0,1,0
+"b'Hitchcock, TX'",0,0,1
+b'Holby',0,0,1
+"b'Holland, OH'",0,1,0
+b'Houston',0,0,1
+"b'Houston, TX'",0,0,6
+"b'Houston, Texas'",0,1,0
+"b'Huntsville, AL'",0,0,1
+b'Hypnotising People',0,1,0
+b'Idaho',1,1,0
+b'Illinois',1,1,0
+b'In Your Kitchen',1,0,0
+b'In fandom hell',1,0,0
+b'In my Queendom',0,1,0
+b'In the garden',0,1,0
+"b'Independence, KY'",0,1,0
+"b'Indiana, USA'",1,1,2
+"b'Indianapolis, IN'",1,0,1
+"b'Iowa, USA'",0,0,1
+b'Ireland',0,1,0
+"b'Irving, TX'",0,1,0
+b'Italy',1,0,0
+"b'Jacksonville, FL'",1,0,0
+"b""Jerry's Premium Malt Liquor""",1,0,0
+b'Jersey Shore',0,0,1
+"b'Jonesboro, GA'",0,0,1
+b'Kansas City',0,1,0
+b'Kansas City metro USA',0,1,0
+"b'King of Prussia, PA'",0,1,1
+"b'Kingston, Jamaica'",0,0,1
+"b'Kingston, Ontario'",1,0,0
+"b'Kitchener, Ontario'",0,1,0
+b'LA / Atlanta / Memphis / Houston / NYC / DC',0,0,1
+b'LA ?? set/booth ?? Island',0,1,0
+"b'Lahore, Pakistan'",0,0,1
+"b'Lake Village, AR'",0,2,2
+b'Lancashire',0,0,1
+b'Las Vegas',0,2,0
+"b'Las Vegas, NV'",1,0,0
+"b'Leamington Spa, England'",0,1,0
+"b'Lincolnton, NC'",0,1,0
+b'Lisle IL',0,1,0
+b'Living Hell',1,0,0
+"b'Lloydminster, AB/SK'",0,0,1
+b'London',1,0,1
+"b'London, Ontario'",0,0,1
+"b'London, South East Asia, Cambs'",0,0,1
+"b'Long Beach, CA'",1,0,0
+"b'Long Beach, NY'",1,0,0
+"b'Long Island City, Queens'",0,1,0
+"b'Long Island, NY'",0,0,1
+"b'Long Island, New York'",0,1,0
+b'Los Angeles',0,0,1
+"b'Los Angeles, CA'",0,1,4
+"b'Los Angeles, CA 9046'",0,1,0
+b'Lou-uh-vull',0,0,1
+"b'Louisville, KY'",0,1,0
+"b'Lumberton, NC'",0,1,0
+b'MN by way of IL',0,0,1
+b'MOTHERFUCKING CARTHAGE',1,0,0
+"b'Manassas, VA'",0,0,1
+"b'Manchester, NH'",0,0,1
+"b'Manhattan, NY'",0,1,1
+"b'Manhattan, New York, NY, USA'",0,0,1
+b'Maple Ridge',0,0,1
+"b'Marlow, Buckinghamshire.'",0,0,1
+b'Maryland USA',0,0,1
+b'Mattsylvania (WNY)',1,0,0
+"b'Melbourne, Victoria'",1,0,0
+b'Merced',0,1,0
+"b'Merrillville, IN'",0,1,0
+"b'Mesa, AZ'",1,0,0
+b'Michiana',0,1,0
+"b'Michigan, USA'",1,3,0
+b'Middlesex County Massachusetts',0,0,1
+"b'Midland, MI'",0,0,1
+b'Mililani',0,0,1
+"b'Millbrook, New York'",1,0,0
+"b'Milwaukee, WI'",0,0,1
+"b'Minneapolis, MN'",1,0,1
+b'Minnesota',1,1,0
+"b'Minnesota, USA'",0,1,0
+"b'Mississauga, Ontario, Canada'",0,0,1
+"b'Moncton, New Brunswick'",1,0,0
+"b'Montreal, Quebec'",0,0,1
+"b'Mueang Pattaya, Thailand'",1,0,0
+b'My World',0,0,1
+b'NE Ohio. Near Lake Erie.',0,1,0
+b'NEPA',0,0,1
+b'NJ',0,0,1
+b'NW Vt..',1,0,0
+b'NYC',0,3,0
+"b'NYC from DC, MD, KY, & PA'",0,0,1
+b'Nashville and London',0,0,1
+"b'Nashville, TN'",0,1,1
+"b'Nebraska, USA'",0,0,1
+b'New England',0,1,1
+"b'New Haven County, Connecticut'",0,1,0
+"b'New Haven, CT'",0,0,1
+b'New Hyrule',0,0,1
+"b'New Jersey, USA'",2,1,4
+"b'New Orleans, LA'",0,0,1
+b'New Orleans?Denver?C.Coast?',1,0,0
+"b'New Smyrna Beach, FL'",0,0,1
+b'New York',1,0,1
+b'New York City',0,0,1
+"b'New York, NY'",0,1,1
+"b'New York, USA'",0,1,3
+"b'Newark, Delaware'",0,1,0
+"b'Newark, NJ'",0,0,1
+"b'Newfoundland and Labrador, Canada'",0,1,0
+"b'Newtown, Connecticut'",0,0,1
+"b'Nipissing Township, ON, Canada'",0,0,1
+b'No where near the swamp',1,0,0
+"b'Norfolk, Virginia'",0,1,0
+"b'Norristown-Covena, GA'",0,1,0
+b'North  Wales',0,0,1
+b'North America',0,1,1
+"b'North Bay, Ontario (NNDSB)'",0,0,1
+"b'North Branch, MN'",1,0,0
+"b'North Carolina, USA'",2,1,0
+b'North Lincs',0,1,0
+"b'North London, London'",1,0,0
+b'North North',0,1,0
+"b'Northampton, England'",1,0,0
+b'Northern Colorado',1,0,0
+b'Northern RRV',0,0,1
+b'Northwest Indiana',0,0,1
+b'Not Available',49,69,96
+b'OHIO',0,0,1
+"b'Oak Lawn, IL'",0,0,1
+b'Occupied Territory Gulag (SC)',0,1,0
+"b'Ohio, USA'",0,1,1
+b'Oklahoma City',1,0,0
+b'Old Dominion',0,1,0
+"b'Old white guy...Duluth, MN, formerly Bayfield, WI.'",0,1,0
+"b'Oliver, BC'",0,0,1
+"b'Omaha, NE'",0,0,1
+"b'Ontario, California'",0,1,0
+"b'Ontario, Canada'",0,1,2
+b'Orange Islands',0,0,1
+b'Oregon',0,0,2
+"b'Oregon, USA'",0,0,1
+b'Orleans',0,0,1
+"b'Osage, IA'",1,0,0
+"b'Oswego, NY'",0,0,1
+"b'Ottawa, Ontario'",0,1,0
+"b'Ottawa, Ontario Canada'",1,0,0
+"b'Ottawa, Ontario, Canada'",0,1,0
+b'Oxfordshire',0,0,1
+b'PANAMA CITY FL',0,0,2
+"b'Paignton, Devon'",0,0,1
+b'Pakistan',0,0,1
+"b'Panama City Beach, FL'",0,1,0
+"b'Pembroke, NC'",0,0,1
+"b'Pennsylvania, USA'",1,2,0
+b'Pensacola',0,0,1
+"b'Pineville, W.Va.'",0,1,0
+b'Pinterest Guide   ??',0,1,0
+"b'Pittsburgh, PA'",0,2,0
+"b'Pittsburgh, Pa'",1,0,0
+b'Planet Earth',0,1,1
+b'Planet Earth Galaxy: Milky Way',0,0,2
+"b'Plymouth, NH'",1,0,0
+b'Pontotoc MS',0,1,0
+"b'Port Hope, Ontario'",0,0,1
+"b'Portland, OR'",0,0,2
+b'Prepping Asteroid T',1,0,0
+"b'Prince Albert, SK'",0,0,1
+b'Puerto Rico',1,0,0
+"b'Puerto Rico, USA'",1,0,0
+b'Pugwash Nova Scotia',0,1,0
+"b'Punjab, Pakistan'",0,1,0
+"b'Queens, NY'",0,0,1
+"b'Rabbit Hall, Kilkenny, Ireland'",0,1,0
+"b'Radnor Township, PA'",0,0,1
+"b'Raleigh, NC'",1,0,1
+"b'Reno, NV'",0,0,1
+b'Republic of Ninnies.',1,1,0
+b'Rhode Island',0,0,1
+"b'Rinky-Dink, West Virginia'",1,0,0
+"b'Roanoke, VA'",0,1,0
+"b'Rockcity Aachen, Germany'",0,0,1
+"b'Rockford, Michigan'",0,0,1
+"b'Rockville, Maryland'",0,1,0
+b'Romiley',0,0,1
+"b'Romney, WV'",0,1,0
+"b'Rosemount, MN'",1,0,0
+"b'Roseville, MN'",0,0,1
+b'SAN dog usa',1,0,0
+b'SFw/Major Tom & Laura Palmer',0,1,0
+"b'SLC, UT'",0,0,1
+"b'STL, MO'",0,1,0
+"b'Sacramento, California'",0,0,1
+"b'Saint Andrews, Scotland'",0,0,3
+b'Saint Paul',0,1,0
+"b'Salem, MA'",0,0,1
+"b'Salt Lake City, UT'",0,0,1
+"b'Salt Lake City, Utah'",0,1,0
+"b'San Antonio, Tx'",0,0,1
+"b'San Diego, CA'",0,0,1
+b'San Francisco',1,1,0
+b'San Jacinto',1,0,0
+"b'San Jose, CA'",1,0,0
+"b'San Luis Obispo, CA'",0,0,1
+"b'San Marcos, Tx'",0,1,0
+b'Santa Ana',1,0,0
+"b'Santa Fe, New Mexico'",0,0,1
+"b'Savannah, GA'",0,1,0
+b'Scotland',1,0,0
+"b'Scranton, PA'",0,1,0
+b'Seattle',0,0,1
+"b'Seattle, WA'",0,2,0
+"b'Selinsgrove, PA'",1,0,0
+"b'Seymour, IN'",0,1,0
+"b'Shakopee, MN, USA'",0,1,0
+"b""She's American""",0,0,2
+b'Shithole Canada',1,0,0
+"b'Shuffletown,Charlotte,NC'",1,0,0
+"b'Silver Spring, MD'",1,0,0
+"b'Sioux Falls, SD'",0,1,2
+b'Smash Manor possibly',1,0,0
+"b'Snowbelt, USA ??'",0,0,1
+b'SoCal',0,1,0
+b'Some farm in Illinois',0,0,1
+"b'Somerville, NJ'",1,0,0
+"b""Somewhere you're not!""",0,0,1
+b'South Australia',0,0,1
+"b'South East, England'",0,0,1
+"b'Southampton, NY'",0,0,1
+b'Southern California',1,0,2
+"b'Southlake, TX'",0,0,1
+"b'Southport, NC'",0,1,0
+b'Space King ?',0,1,0
+"b'Spanaway, WA'",0,0,1
+"b'Spencerport, NY'",0,1,0
+"b'Springdale, AR'",0,0,1
+"b'Springfield, VA'",0,0,1
+"b'St Louis, MO'",1,0,1
+"b'St Petersburg, FL'",0,0,1
+b'St. Louis and Columbia',0,0,1
+"b'St. Paul, MN'",2,2,1
+"b'St. Paul, MN, USA'",0,1,0
+b'Still Finding Myself',0,0,1
+"b'Stow, Ohio'",0,0,1
+"b'Summerfield, NC'",0,2,0
+"b'Surat, India'",0,1,0
+b'Sydney',0,0,1
+b'Sydney  Australia',0,0,1
+b'TX??GA',0,0,1
+b'Tacoma',1,0,1
+"b'Tampa, FL'",0,0,1
+"b'Taos, NM'",0,1,0
+"b'Texas, USA'",1,1,2
+b'Thataway!',1,0,0
+b'The Dirty 330',0,0,1
+b'The Hellmouth',0,1,0
+b'The Sacred Realm',0,0,1
+b'The South',0,0,1
+b'The Upside Down',0,1,0
+"b'The Villages, FL'",0,1,0
+"b'The Woodlands, TX'",0,0,1
+"b'Thompson Station, Tennessee'",0,1,0
+"b'Ti Point, New Zealand'",0,1,0
+"b'Tiffin, OH'",0,1,0
+"b'Timi?oara, Romania'",0,3,0
+b'Titirangi',0,1,0
+b'Top Gear Test Track',0,0,1
+"b'Topeka, KS'",0,0,1
+b'Toronto',2,1,0
+b'Toronto ON',0,0,1
+"b'Toronto, Ontario'",1,0,4
+"b'Transplanted to Wisconsin, USA'",1,1,0
+b'Trappist-1 Planet D',1,0,0
+b'Traverse City',0,1,1
+b'Treasure Coast',0,1,0
+b'Treaty 1 Territory (Winnipeg)',0,0,1
+b'UK',0,1,1
+b'USA',1,4,2
+"b'UT: 41.45101,-87.52884'",0,3,1
+b'United Kingdom',1,0,0
+b'United States',2,7,8
+b'United States Of America',1,0,0
+b'University of Winnipeg',0,0,1
+"b'Utah, USA'",0,1,0
+"b'Utica, NY'",0,0,1
+b'VA',0,0,1
+b'Valhalla',0,0,1
+"b'Valparaiso, IN'",0,1,0
+"b'Vancouver, BC'",0,0,1
+"b'Vancouver, BC - Canada'",0,1,0
+"b'Vancouver, British Columbia'",0,0,1
+"b'Vienna, Austria ?History, Literature, Film Noir, Poker, Chess'",1,0,0
+"b'Vienna, VA'",0,1,0
+"b'Virginia Beach, VA'",0,1,0
+"b'Virginia, USA'",0,2,2
+"b'WVan, BC, Canada'",0,0,1
+"b'Waite Park, MN'",0,0,1
+"b'Wales, United Kingdom ????'",0,0,1
+b'Warwickshire',1,0,0
+b'Warwickshire/Birmingham',0,1,0
+"b'Washington, County Maryland'",0,1,0
+"b'Washington, DC'",2,3,2
+"b'Washington, DC metro'",0,0,2
+"b'Washington, USA'",1,0,1
+"b'Waterloo, IL.'",0,0,1
+b'Watford',0,0,1
+"b'Wayzata, MN'",0,0,1
+"b'Wellesley, Ontario'",0,0,1
+"b'West Alexandria, OH'",0,0,1
+"b'West Bloomfield, MI'",0,0,1
+"b'West Hartford, CT'",0,1,0
+"b'West Hollywood, CA'",1,0,0
+"b'West Texas, on La Frontera Bonita..'",1,0,0
+"b'West side, Planet Earth'",0,1,0
+b'Western New York State',0,1,0
+"b'Wethersfield, Connecticut'",0,0,1
+"b'Whereverville, USA'",1,0,0
+b'White House & elsewhere',1,0,0
+"b'Wilbraham, MA'",0,1,0
+b'Wild Wild West',0,1,0
+"b'Williamsport, PA'",0,0,1
+"b'Wilson County, Tennessee'",0,0,1
+"b'Winston-Salem, NC'",1,0,0
+"b'Winter Park, FL'",0,0,1
+"b'Wisconsin, USA'",0,1,0
+"b'Woodstock, Vermont'",0,1,0
+b'Wordwide',0,0,1
+b'Wy',0,0,1
+b'YYZ MIA NYC',0,1,0
+b'a pumpkin field probably',1,0,0
+b'apki oqaat se bahar',0,0,1
+b'area 51',1,0,0
+b'at home',0,1,0
+b'auto tweets // manual replies',1,0,0
+b'b: @jyoukido // i: @zolshii',1,0,0
+b'calgary',0,1,0
+"b'cheltenham, gloucestershire'",0,1,0
+b'chicago.',0,1,0
+b'colorado',0,1,0
+b'doctor neo cortex is a dilf',1,0,0
+b'earth ? mars',0,1,0
+b'electricPR.com',0,0,1
+b'gamehendge',0,0,1
+b'germany',1,0,0
+b'he/they',0,0,1
+b'home',1,0,0
+b'hope world',1,0,0
+b'hopefully 6 feet under Soon.',1,0,0
+b'https://curiouscat.me/peakrafa',0,0,1
+b'https://discord.gg/c2c6eM5',0,0,1
+b'huge boulder',1,0,0
+b'i forget where i heard it',0,0,1
+"b'i12T: 38.283861,-85.683812'",0,0,1
+b'iOS',0,0,1
+"b'iPhone: 37.668022,-82.732658'",0,0,1
+"b'iPhone: 41.882487,-87.630913'",1,0,0
+b'ive looked everywhere',0,1,0
+"b'kotzebue, alaska'",0,0,1
+b'los',1,0,0
+b'my deli',0,1,0
+b'nightosphere',0,0,1
+b'oklahoma city',1,0,0
+b'san diego',0,1,0
+b'sc: roxiemontalvo30',1,0,0
+b'she/her || i?m doin my thang',0,1,0
+b'shinee',1,0,0
+b'soft stan | ?',1,0,0
+b'somewhere  over the rainbow',0,1,0
+b'somewhere in texas',0,0,1
+b'southern highlands NSW',0,1,0
+"b'sydney, australia'",1,0,0
+b'texas',0,0,1
+b'the island///   tweets are mine and do not reflect any employer',1,0,0
+b'toronto',0,0,1
+b'up 5SOSs ass',0,1,0
+"b'wauchope, nsw'",0,0,1
+b'winchester',0,1,0
+b'your parents kitchen',0,1,0
